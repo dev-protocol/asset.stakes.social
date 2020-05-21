@@ -1,9 +1,14 @@
 {
-	"routes": [
+	"version": 2,
+	"headers": [
 		{
-			"src": "/.*",
-			"headers": { "cache-control": "public, s-maxage=31536000" },
-			"dest": "public"
+			"source": "/(.*)",
+			"headers": [
+				{
+					"key": "cache-control",
+					"value": "public, s-maxage=31536000"
+				}
+			]
 		}
 	]
 }
