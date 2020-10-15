@@ -1,7 +1,7 @@
 {
-	"name": "template-repos-static",
+	"name": "asset.stakes.social",
 	"private": true,
-	"description": "Template repository for static files",
+	"description": "🥨Static files serving for stakes.social",
 	"scripts": {
 		"lint": "prettier --write '**/*.{json,md,yml}'"
 	},
