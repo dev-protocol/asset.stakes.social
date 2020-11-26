@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg data-name="Dev" viewBox="0 0 640 245" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<clipPath id="b">
+<path d="m230.85 121.5c0 71.5-53.11 121.5-129.85 121.5h-101v-243h103.1c75.33 0 127.75 49.64 127.75 121.5zm-55.47 0.35c0-44.85-31.31-75.85-73.06-75.85h-47.32v151h49.75c40.71 0 70.63-30.62 70.63-75.15zm227.3 57.31 30.54 27.77c-21.52 25.34-50 38.18-84 38.18-59.35 0-99.22-38.18-99.22-95.11 0-56.23 37.14-95.1 95.79-95.45 54.15-0.34 89.9 32.63 92 86.08l-129.12 34c8 18 23.95 28.81 44.42 28.81 18 0.02 35.36-8.31 49.59-24.28zm-99.27-36.44 81.91-22.22c-5.9-18-18.74-26.38-36.79-26.38-26.38 0-43.38 17.01-45.12 48.6zm195.74-86.72 44.09 136.35 43.76-136.35h53.15l-70.59 187h-54.67l-71-187z" fill="none"/>
+</clipPath>
+<linearGradient id="a" x2="636.83" y1="531.5" y2="531.5" gradientTransform="matrix(1 0 0 -1 0 654)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#00ebff" offset="0"/>
+<stop stop-color="#f200df" offset=".35"/>
+<stop stop-color="#ff4700" offset="1"/>
+</linearGradient>
+</defs>
+<title>Dev</title>
+<g data-name="Dev">
+<g clip-path="url(#b)">
+<path d="M640,0H0V245H640Z" fill="url(#a)"/>
+</g>
+</g>
+</svg>
